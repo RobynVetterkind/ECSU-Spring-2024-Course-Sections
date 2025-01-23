@@ -67,8 +67,8 @@ are not available on Monday, Wednesday, and Friday?
 🧠 Why Query Insightful/Valuable: Identify scheduling patterns and availability of courses. Presents 
 a case of whether students are coerced into taking certain day classes out of no other choice. 
 
-🔗 Query Finding(s): Queries 1 through 14 identified course sections scheduled for Monday, 
-Wednesday, and Friday and right joined them with Tuesday and Thursday classes, retaining null 
+🔗 Query Finding(s): Queries 1 through 14 identified course sections scheduled for all combinations of Monday, 
+Wednesday, and Friday and right joined them with all combinations of Tuesday and Thursday classes, retaining null 
 values. Comparing the updated Tuesday and Thursday course sections to more MWF variants 
 yielded 283 subject course sections exclusively available on Tuesday and Thursday. 
 

@@ -1,6 +1,10 @@
 # ECSU Spring 2024 Course Sections
 
-Identified slack and shortages in the ECSU Spring 2024 Course Sections database, and provided university insights, value, and recommendations for course improvement by using MS Access SQL query builder in SQL View.
+Background: Took information from tables about instructors, subjects, courses, sections, credits, LACs, times, dates, capacities, actuals, locations, titles, teaching status, departments, and chair coordinators from the Eastern Connecticut State University Spring 2024 course database and performed queries in Microsoft's Access SQL view. 
+
+Objective Achieved: Identified slack and shortages in the ECSU Spring 2024 Course Sections database and provided university insights, value, and recommendations for course improvement by using the MS Access SQL View using the following SQL clauses: 
+
+<pre> ```sql SELECT FROM WHERE GROUP BY HAVING ORDER BY ``` </pre>
 
 Started off by doing simple queries to find basic information on the tables. These can be found from the following queries in the Access file in SQL View:
 

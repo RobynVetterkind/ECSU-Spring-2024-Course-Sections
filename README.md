@@ -36,7 +36,7 @@ Rank Full‐Time instructors in decreasing order of student credits taught.
 Rank the Department/Program Chair, Assistant/Associate Chair, or
 Program Coordinators by first: teaching the most days of the week, second:
 teaching the most unique courses, and third: teaching the most student credits,
-and lastly alphabeƟcally.  Provide the person’s name, Department, Chair (etc.
+and lastly alphabetically.  Provide the person’s name, Department, Chair (etc.
 title), number of days of the week, number of unique courses, and number of
 student credits taught.
 

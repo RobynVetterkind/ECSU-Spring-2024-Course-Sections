@@ -3,19 +3,19 @@ Identified slack and shortages in the ECSU Spring 2024 Course Sections database,
 
 Started off by doing simple queries to find basic information on the tables. These can be found from the following queries in the Access file in SQL View:
 
-Average_Section_Size
-Section_Count
-Subject_Count
-Subject_Course_Enrollment
-Subjects_Seats_Filled
-Unique_Courses_In_Subject
-BuildingWithMostSections & BuildingWithMostSectionsSubquery1
-Enter_Room_for_Courses
-Number_Of_Students_Per_Professor
-NumberOfStudentSeatsEachInstructorIsTeaching
-NumberOfUniqueCoursesPerInstructor
-Professor_Number_Days_Week_Teaching
-ProfessorTeachingInformation & ProfessorTeachingInformationSubquery1...3
+- **Average_Section_Size**  
+- **Section_Count**  
+- **Subject_Count**  
+- **Subject_Course_Enrollment**  
+- **Subjects_Seats_Filled**  
+- **Unique_Courses_In_Subject**  
+- **BuildingWithMostSections & BuildingWithMostSectionsSubquery1**  
+- **Enter_Room_for_Courses**  
+- **Number_Of_Students_Per_Professor**  
+- **NumberOfStudentSeatsEachInstructorIsTeaching**  
+- **NumberOfUniqueCoursesPerInstructor**  
+- **Professor_Number_Days_Week_Teaching**  
+- **ProfessorTeachingInformation & ProfessorTeachingInformationSubquery1...3** 
 
 
 Then Queried to find Answers to Questions on what types of insights were needed: 

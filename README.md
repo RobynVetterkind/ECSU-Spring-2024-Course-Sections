@@ -1,8 +1,8 @@
 # ECSU Spring 2024 Course Sections
 
-Background: Took information from tables about instructors, subjects, courses, sections, credits, LACs, times, dates, capacities, actuals, locations, titles, teaching status, departments, and chair coordinators from the Eastern Connecticut State University Spring 2024 course database and performed queries in Microsoft's Access SQL view. 
+🖥️ Background: Took information from tables about instructors, subjects, courses, sections, credits, LACs, times, dates, capacities, actuals, locations, titles, teaching status, departments, and chair coordinators from the Eastern Connecticut State University Spring 2024 course database and performed queries in Microsoft's Access SQL view. 
 
-Objective Achieved: Identified slack and shortages in the ECSU Spring 2024 Course Sections database and provided university insights, value, and recommendations for course improvement by using the MS Access SQL View using the following SQL clauses: 
+🎯 Objective Achieved: Identified slack and shortages in the ECSU Spring 2024 Course Sections database and provided university insights, value, and recommendations for course improvement by using the MS Access SQL View using the following SQL clauses: 
 
 <pre> SELECT 
  FROM 

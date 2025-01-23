@@ -79,7 +79,7 @@ Query Question/Objective: Which instructors have the most seats available?
 Why Query Insightful/Valuable: Insights into student preferences and perceptions of teaching 
 quality. Identify professors with consistently large number of available seats. 
 
-Query Finding(s): The initial query sorted instructors based on courses neither high-level nor lowlevel 
+Query Finding(s): The initial query sorted instructors based on courses neither high-level nor low-level 
 due to low enrollment. Then, further queries collected capacity and actual enrollment, 
 summed them up. The last query subtracted actual enrollment from capacity, showing that 
 Johnson, P (P) has 59 vacant seats, with the top three professors each having over 50 available 

@@ -21,7 +21,7 @@ Started off by doing simple queries to find basic information on the tables. The
 Then Queried to find Answers to Questions on what types of insights were needed: 
 
 ### S3Q3Subquery3Final, S3Q3Subquery1..2: 
-**Question:** Which subject has the largest percentage of sections taught by Part-Time instructors?
+Which subject has the largest percentage of sections taught by Part-Time instructors?
 
 ### S3Q4SubqueryFinalOutput, S3Q4Subquery1: 
 Which subject has the most Unique Full‐Time instructors teaching courses?

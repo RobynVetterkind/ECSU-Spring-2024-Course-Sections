@@ -21,13 +21,13 @@ Started off by doing simple queries to find basic information on the tables. The
 Then Queried to find Answers to Questions on what types of insights were needed: 
 
 ### 🔍 S3Q3Subquery3Final, S3Q3Subquery1..2: 
-Which subject has the largest percentage of sections taught by Part-Time instructors?
+❓ Which subject has the largest percentage of sections taught by Part-Time instructors?
 
 ### 🔍 S3Q4SubqueryFinalOutput, S3Q4Subquery1: 
-Which subject has the most Unique Full‐Time instructors teaching courses?
+❓ Which subject has the most Unique Full‐Time instructors teaching courses?
 
 ### 🔍 S3Q5: 
-What are the actual Subject Codes that each Instructor marked as teaching “Multi” teaches?
+❓ What are the actual Subject Codes that each Instructor marked as teaching “Multi” teaches?
 
 ### 🔍 S3Q6FinalOutput & S3Q6Subquery1: 
 Rank Full‐Time instructors in decreasing order of student credits taught.
@@ -46,7 +46,7 @@ Lastly, I queried to find insights that could be useful for future course setups
 
 ### 🔍 S3Q9ProjectSubquery1 and S3Q9ProjectSubquery2:
 
-Query Question/Objective: Which days and times are courses most run? Ordered by day then 
+❓ Query Question/Objective: Which days and times are courses most run? Ordered by day then 
 time. 
 
 Why Query Insightful/Valuable: Allocation of professors, staff, and faculty effectively. Provides 
@@ -60,7 +60,7 @@ counts the days and times and S3Q9ProjectSubquery2 sums the days and times.
 
 ### 🔍 YS3Q10Subquery1A, YS3Q10Subquery1B, YS3Q10Subquery2…14 and YS3Q10SubqueryFINAL_OUTPUT: 
 
-Query Question/Objective: How many courses sections are available Tuesday and Thursday that 
+❓ Query Question/Objective: How many courses sections are available Tuesday and Thursday that 
 are not available on Monday, Wednesday, and Friday? 
 
 Why Query Insightful/Valuable: Identify scheduling patterns and availability of courses. Presents 
@@ -74,7 +74,7 @@ yielded 283 subject course sections exclusively available on Tuesday and Thursda
 
 ### 🔍 YS3Q11ProjectSubquery1…3 and YS3Q11ProjectSubqueryFinal:
 
-Query Question/Objective: Which instructors have the most seats available? 
+❓ Query Question/Objective: Which instructors have the most seats available? 
 
 Why Query Insightful/Valuable: Insights into student preferences and perceptions of teaching 
 quality. Identify professors with consistently large number of available seats. 
@@ -88,7 +88,7 @@ seats.
 
 ### 🔍 YS3Q12ProjectSubquery1…2 and YS3Q12ProjectSubquery3FinalOutputPart1...Part3:
 
-Query Question/Objective: Which subject courses, having only one section, have the most 
+❓ Query Question/Objective: Which subject courses, having only one section, have the most 
 shortages of sections based on their actual minus capacity?
 
 Why Query Insightful/Valuable: Planning for future semesters. Addressing shortages can 
@@ -103,7 +103,7 @@ students, while BIS 373 follows with exceeding capacity of 8 students in its one
 
 ### 🔍 YS3Q13_A_BISAndCSC, YS3Q13_B_Labs, YS3Q13_C_Times4pmThrough7PM, and YS3Q13_D_LabOccupancy:
 
-Query Question/Objective: Identify which rooms are computer labs and find out what percentage 
+❓ Query Question/Objective: Identify which rooms are computer labs and find out what percentage 
 of the programs courses and labs are offered between 4 and 7pm.
 
 Why Query Insightful/Valuable: Gauge computer lab availability and demand and reveal 

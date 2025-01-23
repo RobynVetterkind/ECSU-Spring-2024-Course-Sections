@@ -5,11 +5,11 @@ Background: Took information from tables about instructors, subjects, courses, s
 Objective Achieved: Identified slack and shortages in the ECSU Spring 2024 Course Sections database and provided university insights, value, and recommendations for course improvement by using the MS Access SQL View using the following SQL clauses: 
 
 <pre> SELECT 
-      FROM 
-      WHERE 
-      GROUP BY 
-      HAVING 
-      ORDER BY 
+FROM 
+WHERE 
+GROUP BY 
+HAVING 
+ORDER BY 
 </pre>
 
 Started off by doing simple queries to find basic information on the tables. These can be found from the following queries in the Access file in SQL View:

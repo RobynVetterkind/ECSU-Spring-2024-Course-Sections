@@ -49,7 +49,7 @@ Lastly, I queried to find insights that could be useful for future course setups
 ❓ Query Question/Objective: Which days and times are courses most run? Ordered by day then 
 time. 
 
-Why Query Insightful/Valuable: Allocation of professors, staff, and faculty effectively. Provides 
+🧠 Why Query Insightful/Valuable: Allocation of professors, staff, and faculty effectively. Provides 
 insight for event planning committees at Eastern for which times to avoid setting events due to low 
 student attendance. 
 
@@ -63,7 +63,7 @@ counts the days and times and S3Q9ProjectSubquery2 sums the days and times.
 ❓ Query Question/Objective: How many courses sections are available Tuesday and Thursday that 
 are not available on Monday, Wednesday, and Friday? 
 
-Why Query Insightful/Valuable: Identify scheduling patterns and availability of courses. Presents 
+🧠 Why Query Insightful/Valuable: Identify scheduling patterns and availability of courses. Presents 
 a case of whether students are coerced into taking certain day classes out of no other choice. 
 
 🔗 Query Finding(s): Queries 1 through 14 identified course sections scheduled for Monday, 
@@ -76,7 +76,7 @@ yielded 283 subject course sections exclusively available on Tuesday and Thursda
 
 ❓ Query Question/Objective: Which instructors have the most seats available? 
 
-Why Query Insightful/Valuable: Insights into student preferences and perceptions of teaching 
+🧠 Why Query Insightful/Valuable: Insights into student preferences and perceptions of teaching 
 quality. Identify professors with consistently large number of available seats. 
 
 🔗 Query Finding(s): The initial query sorted instructors based on courses neither high-level nor low-level 
@@ -91,7 +91,7 @@ seats.
 ❓ Query Question/Objective: Which subject courses, having only one section, have the most 
 shortages of sections based on their actual minus capacity?
 
-Why Query Insightful/Valuable: Planning for future semesters. Addressing shortages can 
+🧠 Why Query Insightful/Valuable: Planning for future semesters. Addressing shortages can 
 enhance student satisfaction, improve retention rates, and contribute to the overall effectiveness 
 of the educational experience.
 
@@ -106,7 +106,7 @@ students, while BIS 373 follows with exceeding capacity of 8 students in its one
 ❓ Query Question/Objective: Identify which rooms are computer labs and find out what percentage 
 of the programs courses and labs are offered between 4 and 7pm.
 
-Why Query Insightful/Valuable: Gauge computer lab availability and demand and reveal 
+🧠 Why Query Insightful/Valuable: Gauge computer lab availability and demand and reveal 
 percentage of courses between 4 and 7 pm for professor and student preferences.
 
 🔗 Query Finding(s): Query A identified specific locations for subject codes such as BIS, Data Science
